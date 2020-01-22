@@ -1,0 +1,39 @@
+C:\Users\bill\OneDrive\Desktop\Asepha's School Shit\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\bill\OneDrive\Desktop\Asepha's School Shit\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\bill\OneDrive\Desktop\Asepha's School Shit\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\bill\OneDrive\Desktop\Asepha's School Shit\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\bill\OneDrive\Desktop\Asepha's School Shit\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\bill\OneDrive\Desktop\Asepha's School Shit\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\bill\OneDrive\Desktop\Asepha's School Shit\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\bill\OneDrive\Desktop\Asepha's School Shit\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\bill\OneDrive\Desktop\Asepha's School Shit\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+E:\BACS\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+E:\BACS\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+E:\BACS\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.GetTickets.resources
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.AccountCreation.resources
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.Tickets.resources
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.Purchase.resources
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.Admin.resources
+E:\BACS\FinalProject\FinalProject\obj\Debug\FinalProject.adminLogin.resources
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.AccountCreation.resources
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.Admin.resources
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.adminLogin.resources
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.GetTickets.resources
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.Purchase.resources
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.Tickets.resources
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Kira\Documents\GitHub\Ticket-Purchasing\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
